@@ -2,8 +2,8 @@
 
 ## This is backend project.
 ## Tech: 
-### Nodejs
-### Expressjs
-### Typescript 
-### Mongodb
-### zod 
+    1. Nodejs
+    2. Expressjs
+    3. Typescript 
+    4. Mongodb
+    5. zod 
