@@ -4,7 +4,7 @@
   "description": "1. Nodejs\r     2. Expressjs\r     3. Typescript \r     4. Mongodb\r     5. zod",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only src/app.ts"
+    "dev": "ts-node-dev --respawn --transpile-only src/app.ts | npx pino-pretty"
   },
   "repository": {
     "type": "git",
